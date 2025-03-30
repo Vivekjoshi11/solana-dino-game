@@ -1,0 +1,26 @@
+{
+  "address": "GoD5ZDT4RLUDVn1ooV7oVHwNee4hUjTYwAfAbs5k1ahK",
+  "metadata": {
+    "name": "solana_dino_game",
+    "version": "0.1.0",
+    "spec": "0.1.0",
+    "description": "Created with Anchor"
+  },
+  "instructions": [
+    {
+      "name": "initialize",
+      "discriminator": [
+        175,
+        175,
+        109,
+        31,
+        13,
+        152,
+        155,
+        237
+      ],
+      "accounts": [],
+      "args": []
+    }
+  ]
+}
